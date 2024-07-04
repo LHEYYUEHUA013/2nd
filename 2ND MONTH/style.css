@@ -1,0 +1,21 @@
+body { 
+background:linear-gradient(hsl(270, 65%, 62%), #ff85de);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+h1{
+    font-style: oblique;
+    font-family:"baskervville SC";
+}
+
+p{
+
+    font-style: normal;
+    font-family:"baskervville SC";
+    font-weight: bold;
+    
+}
+
+
+
